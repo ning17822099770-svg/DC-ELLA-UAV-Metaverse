@@ -1,0 +1,10 @@
+# Python 3.12 was used for the paper.
+numpy>=2.0            # result pickles were written with NumPy 2.x
+torch>=2.0
+scipy
+scikit-learn==1.6.1   # version that produced feature_scaler.pkl / feature_pca.pkl
+cvxpy                 # Lasso sub-problem of DC-ELLA / PG-ELLA
+joblib
+matplotlib
+seaborn               # Fig. 3 heatmap
+sympy

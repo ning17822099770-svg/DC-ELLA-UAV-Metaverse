@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "DC-ELLA: Deep Lifelong Learning for Semantic-Aware Content Reuse in UAV-Assisted Metaverse (simulation code)"
+license: MIT
+repository-code: "https://github.com/ning17822099770-svg/DC-ELLA-UAV-Metaverse"
+authors:
+  - family-names: Wang
+    given-names: Ning
+    affiliation: "University of Massachusetts Amherst"
+    orcid: "https://orcid.org/0009-0003-7311-5378"
+  - family-names: Wu
+    given-names: Yinxuan
+    affiliation: "University of Massachusetts Amherst"
+  - family-names: Lorenzo
+    given-names: Beatriz
+    affiliation: "University of Massachusetts Amherst"
+  - family-names: Samarakoon
+    given-names: Sumudu
+    affiliation: "University of Oulu"
+  - family-names: Liu
+    given-names: Bing
+    affiliation: "University of Illinois Chicago"
+preferred-citation:
+  type: article
+  title: "Deep Lifelong Learning for Adaptive Semantic-Aware Content Reuse in UAV-Assisted Metaverse"
+  journal: "IEEE Transactions on Mobile Computing"
+  volume: 25
+  issue: 7
+  start: 10847
+  end: 10863
+  year: 2026
+  month: 7
+  doi: "10.1109/TMC.2026.3664868"
+  authors:
+    - family-names: Wang
+      given-names: Ning
+      orcid: "https://orcid.org/0009-0003-7311-5378"
+    - family-names: Wu
+      given-names: Yinxuan
+    - family-names: Lorenzo
+      given-names: Beatriz
+    - family-names: Samarakoon
+      given-names: Sumudu
+    - family-names: Liu
+      given-names: Bing

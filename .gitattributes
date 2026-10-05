@@ -1,0 +1,8 @@
+# Normalize text files to LF in the repository
+* text=auto
+
+# Data, checkpoints and figures are binary: never convert line endings or diff them
+*.pkl binary
+*.pt  binary
+*.mat binary
+*.png binary
